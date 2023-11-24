@@ -20,7 +20,7 @@ def weather():
 
 
 
-Joshuaa = weather()
-print(Joshuaa)    
+Joshua = weather()
+print(Joshua)    
 
 
